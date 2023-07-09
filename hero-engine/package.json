@@ -1,0 +1,31 @@
+{
+  "name": "hero-engine",
+  "version": "1.0.1",
+  "description": "Webgpu Game Engine",
+  "main": "dist/hero-engine.cjs.js",
+  "module": "dist/hero-engine.esm.js",
+  "scripts": {
+    "build": "npx preconstruct build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razorbob/Hero.git"
+  },
+  "keywords": [
+    "Webgpu",
+    "TS",
+    "Game",
+    "Engine",
+    "VR"
+  ],
+  "author": "Vincent Dibon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razorbob/Hero/issues"
+  },
+  "homepage": "https://github.com/Razorbob/Hero#readme",
+  "devDependencies": {
+    "@preconstruct/cli": "^2.7.0",
+    "typescript": "^5.1.3"
+  }
+}
