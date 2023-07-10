@@ -121,6 +121,11 @@ NPCs will be either Eräthians, which are basically Humanoids like Players or Mo
 
 ![Alt text](assets/images/Crypto1.png)
 
+#### Items
+
+Items will be either fungible Tokens or NFTs, depending on how rare they are. Special Items will be awarded to special people. So there will be noone else but you who has this item.
+Unbalanced? Yeah sucks beeing bad. Get Gud.
+
 #### Ideas
 
     Everyone will have a spellbook, where you can check your Spells you learned (Also with information of how to perform it, just in case u forgott)
