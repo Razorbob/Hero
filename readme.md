@@ -6,11 +6,11 @@ Hero is a technology study that aims to combine all the fancy ass stuff and buil
 
 ## Hero-Engine
 
-Includes a simple ECS, a Physics Engine and multiple Renderers (WebGpu and WebGl).
+Includes a simple ECS, a Physics Engine and multiple Renderers (WebGpu and WebGl fallback).
 
 ## Hero-GameServer
 
-the GameServer for the TestGame
+the GameServer for Eräthia
 
 ## Hero-Editor
 
@@ -23,7 +23,7 @@ Why a Blockchain? because it proofs to be a resiliant distributed Database. Its 
 
 ![Alt text](assets/images/NPC3.png)
 
-## Hero-TestGame
+## Hero-TestGame Eräthia
 
 The Test Game will be called Eräthia. It will be a VR Game in the Browser. The holders of Copper Coins will be able to Vote for changes and additions in the Game.
 
