@@ -16,10 +16,10 @@ the GameServer for Eräthia
 
 the Editor of the GameWorld - this should be the Dev Client
 
-## Hero-Miner
+## Hero-Network-Node
 
-the Miner will be Included in the TestGame, this should be able to run standalone - to support the HeroNetwork.
-Why a Blockchain? because it proofs to be a resiliant distributed Database. Its not fast, but thats why we use a Cache on the GameServer (Maybe full P2P in the future, but knowbody has a clue how you would to this IMHO)
+the Network-Node will be Included in the TestGame, this should be able to run standalone - to support the HeroNetwork.
+Why a Blockchain? because it proofs to be a resiliant distributed Database. Its not fast, but thats why we use a Cache on the GameServer (Maybe full P2P in the future, but nobody has a clue how you would to this IMHO)
 
 ![Alt text](assets/images/NPC3.png)
 
@@ -153,4 +153,4 @@ Unbalanced? Yeah sucks beeing bad. Get Gud.
 
 #### Inspired by
 
-    Rumble VR
+[Rumble VR](https://store.steampowered.com/app/890550/RUMBLE/)

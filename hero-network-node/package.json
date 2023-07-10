@@ -1,0 +1,33 @@
+{
+  "name": "hero-network-node",
+  "version": "0.0.1",
+  "description": "Library for the Hero Network",
+  "main": "dist/hero-network-node.cjs.js",
+  "module": "dist/hero-network-node.esm.js",
+  "scripts": {
+    "build": "npx preconstruct build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Razorbob/Hero.git"
+  },
+  "keywords": [
+    "Hero",
+    "Network",
+    "Node"
+  ],
+  "author": "Vincent Dibon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Razorbob/Hero/issues"
+  },
+  "homepage": "https://github.com/Razorbob/Hero#readme",
+  "devDependencies": {
+    "@preconstruct/cli": "^2.7.0",
+    "@types/crypto-js": "^4.1.1",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
